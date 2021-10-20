@@ -1,0 +1,1 @@
+# AplicativoReact_Native
